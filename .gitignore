@@ -1,3 +1,5 @@
 venv/*
 .vscode/*
 myDiary/myDiary/__pycache__/*
+myDiary/entries/__pycache__/*
+myDiary/entries/migrations/__pycache__/*
