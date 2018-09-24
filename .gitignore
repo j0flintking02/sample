@@ -1,5 +1,6 @@
 venv/*
 .vscode/*
+.idea
 myDiary/myDiary/__pycache__/*
-myDiary/entries/__pycache__/*
-myDiary/entries/migrations/__pycache__/*
+myDiary/api/__pycache__/*
+myDiary/api/migrations/__pycache__/*
